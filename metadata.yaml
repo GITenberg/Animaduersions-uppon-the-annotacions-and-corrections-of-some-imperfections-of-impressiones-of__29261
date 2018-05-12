@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '33798'
     url: http://www.gutenberg.org/2009/agents/33798
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29261#Animaduersions-uppon-the-annotacions-and-corrections-of-some-imperfections-of-impressiones-of_
 gutenberg_bookshelf: Early English Text Society
 gutenberg_issued: '2009-06-28'
 gutenberg_type: Text
