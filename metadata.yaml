@@ -1,0 +1,39 @@
+_repo: Animaduersions-uppon-the-annotacions-and-corrections-of-some-imperfections-of-impressiones-of__29261
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thynne, Francis
+    deathdate: 1608
+    gutenberg_agent_id: '33797'
+    url: http://www.gutenberg.org/2009/agents/33797
+  editor:
+    agent_name: Kingsley, G. H. (George Henry)
+    alias: Kingsley, George Henry
+    birthdate: 1827
+    deathdate: 1892
+    gutenberg_agent_id: '33798'
+    url: http://www.gutenberg.org/2009/agents/33798
+description: ''
+gutenberg_bookshelf: Early English Text Society
+gutenberg_issued: '2009-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29261'
+  lccn: '12013525'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thynne, William, -1546'
+- !lcsh 'Speght, Thomas, fl. 1600'
+- !lcsh 'Chaucer, Geoffrey, -1400 -- Criticism, Textual'
+- !lcc 'PR'
+title: 'Animaduersions uppon the annotacions and corrections of some imperfections
+  of impressiones of Chaucer''s workes
+
+  1865 edition'
+url: http://www.gutenberg.org/ebooks/29261
